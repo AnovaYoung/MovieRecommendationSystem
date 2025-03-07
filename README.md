@@ -143,7 +143,7 @@ This project is under the [MIT License](LICENSE). Please ensure that any data or
 - **Team Members**:  
   - Anova Youngers  
   - Stephanie Tabares  
-  - Keller Blanchard  
+  - Keller Flint-Blanchard  
 
 If you have any questions about this project, feel free to open an issue or reach out directly to any team member.  
 
